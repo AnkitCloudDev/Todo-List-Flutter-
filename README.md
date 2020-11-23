@@ -12,6 +12,16 @@ https://developer.android.com/studio?gclid=CjwKCAiA2O39BRBjEiwApB2IklUot2wKA2863
 4. Goto to the root folder of the code and type:
     flutter build apk for Android
     or flutter build ios for ios
+    
+#Install an APK on a device
+Follow these steps to install the APK on a connected Android device.
+
+From the command line:
+
+Connect your Android device to your computer with a USB cable.
+Enter cd <app dir> where <app dir> is your application directory.
+Run flutter install.
+
 
 
 ##Features of the APP:
