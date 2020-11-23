@@ -13,6 +13,7 @@ https://developer.android.com/studio?gclid=CjwKCAiA2O39BRBjEiwApB2IklUot2wKA2863
     flutter build apk for Android
     or flutter build ios for ios
     
+### NOTE: If you ge error flutter command not found then include flutter in your PATH environmental variable
 ## Install an APK on a device
 Follow these steps to install the APK on a connected Android device.
 
