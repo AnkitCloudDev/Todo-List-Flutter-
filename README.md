@@ -3,7 +3,7 @@
 Video:
 [![Alt text](https://img.youtube.com/vi/Z6mS95eBito/0.jpg)](https://www.youtube.com/watch?v=Z6mS95eBito)
 
-## How to Run the APP
+# How to Run the APP
 1. Install flutter from here
 https://flutter.dev/docs/get-started/install
 2. Optionally you can Install Android Studio from
@@ -13,7 +13,7 @@ https://developer.android.com/studio?gclid=CjwKCAiA2O39BRBjEiwApB2IklUot2wKA2863
     flutter build apk for Android
     or flutter build ios for ios
     
-# Install an APK on a device
+## Install an APK on a device
 Follow these steps to install the APK on a connected Android device.
 
 From the command line:
