@@ -3,8 +3,8 @@
 A Simple todo list made by me
 
 ## Getting Started
-![ss1](https://user-images.githubusercontent.com/27636349/99978233-9b16a500-2d9d-11eb-82d2-b8a9408ad989.jpg)
-![ss2](https://user-images.githubusercontent.com/27636349/99978238-9baf3b80-2d9d-11eb-934b-6a64ed87958d.jpg)
+![ss1](https://user-images.githubusercontent.com/27636349/99978233-9b16a500-2d9d-11eb-82d2-b8a9408ad989.jpg=200x500)
+![ss2](https://user-images.githubusercontent.com/27636349/99978238-9baf3b80-2d9d-11eb-934b-6a64ed87958d.jpg=200x500)
 
 
 ## How to use the app
