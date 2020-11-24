@@ -10,6 +10,7 @@ https://flutter.dev/docs/get-started/install
 2. Optionally you can Install Android Studio from
 https://developer.android.com/studio?gclid=CjwKCAiA2O39BRBjEiwApB2IklUot2wKA2863SbV3BOxu44idrakcjggZIq-dmIz9_PA4jDQnosbmhoCgx8QAvD_BwE&gclsrc=aw.ds
 3. Clone/Download the code repo and extract it.
+4.Following this link to create your keys to sign the application https://flutter.dev/docs/deployment/android
 4. Goto to the root folder of the code and type:
     flutter build apk for Android
     or flutter build ios for ios
